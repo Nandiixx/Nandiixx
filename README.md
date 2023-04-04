@@ -14,12 +14,17 @@
      rel="noopener noreferrer"> 
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a 
+     href="https://twitter.com/Nandiixx" 
+     target="_blank" 
+     rel="noopener noreferrer"> 
+   <img src="https://img.shields.io/twitter/url?logoColor=white&style=social"></a>
+  <a 
      href="https://www.twitch.tv/nandiixx" 
      target="_blank" 
      rel="noopener noreferrer"> 
    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a 
-     href = "mailto:sednanreh.nandes@gmail.com" 
+     href = "mailto:nandiixx.official@gmail.com" 
      target="_blank" 
      rel="noopener noreferrer"> 
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
