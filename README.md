@@ -17,7 +17,7 @@
      href="https://twitter.com/Nandiixx" 
      target="_blank" 
      rel="noopener noreferrer"> 
-   <img src="https://img.shields.io/twitter/url?logoColor=white&style=social"></a>
+   <img src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a 
      href="https://www.twitch.tv/nandiixx" 
      target="_blank" 
